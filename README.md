@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)
 
 <h1 align="center">Hi 👋, I'm **Harsh Belwal**</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
