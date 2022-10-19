@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh2003belwal" alt="harsh2003belwal" /></a> </p>
 
+<img align="right" alt="coding"  width="400" src="https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif">
+
 - 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **Machine Learning**
