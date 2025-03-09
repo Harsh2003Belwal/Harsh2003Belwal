@@ -1,7 +1,7 @@
 ![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)
 
 <h1 align="center">Hi 👋, I'm **Harsh Belwal**</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Final Year Graduate, with keen intrest in Data Science and Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2003belwal&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2003belwal" /> </p>
 
